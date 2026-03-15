@@ -1,1 +1,2 @@
 print("hellllo")
+print("hi")
